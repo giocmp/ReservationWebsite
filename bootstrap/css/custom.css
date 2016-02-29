@@ -1,0 +1,33 @@
+.jumbotron{
+	background-image: url(../../immagini/tennis.jpg);
+	/*quando carico nel server cambiare /s220blabla con /.. SI DEVONO UNSARE PERCORSI RELATIVI*/
+    height: auto;
+  	max-width: 100%;
+  	padding: 65px;
+}
+
+.col-sm-3.col-sm-offset-1.blog-sidebar{
+    margin-left: 0px;
+}
+
+.blog-footer{
+	position: absolute;
+}
+
+.textwhite{
+	color: white;
+}
+
+.giustificato{
+	text-align: justify;
+}
+
+.margin20{
+	margin-top: 20;
+}
+
+<!-- prova modifica footer-->
+
+.blog-footer{
+    text-align:center;
+}
